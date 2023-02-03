@@ -1,0 +1,47 @@
+.button {
+  background-color: lightgray;
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  display: inline-block;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  width: 100%;
+}
+
+.button a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.head {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+.something {
+  text-align: center;
+  font-weight: bold;
+  color: red;
+  margin-top: 20px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+  color: green;
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+  font-weight: bold;
+  display: block;
+  text-align: center;
+  margin-top: 40px;
+}
