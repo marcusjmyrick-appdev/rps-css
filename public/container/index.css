@@ -1,0 +1,66 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.container a {
+  font-size: 24px;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #333;
+}
+.button_1-class, .button_2-class, .button_3-class {
+  padding: 10px 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  transition: all 0.2s ease-in-out;
+}
+
+.button_1-class a, .button_2-class a, .button_3-class a {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+.button_1-class:hover, .button_2-class:hover, .button_3-class:hover {
+  background-color: black;
+  color: white;
+}
+.test-class {
+  font-size: 36px;
+  margin: 50px;
+}
+
+.joke-class {
+  font-size: 18px;
+  margin: 50px;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.tably-class {
+  margin: 50px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.tably-class td {
+  padding: 10px;
+}
+
+img {
+  width: 50%;
+  margin: 50px;
+}
+
+p {
+  font-size: 18px;
+}
